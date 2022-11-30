@@ -1,0 +1,4 @@
+I study in NCKU
+I am a junior student
+I take the OS course this semester
+I am going to do the os hw1 right away
